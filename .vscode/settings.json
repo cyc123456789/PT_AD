@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "libc-version.h": "c",
+        "stdio.h": "c"
+    }
+}
